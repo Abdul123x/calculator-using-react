@@ -1,0 +1,14 @@
+.btn_container{
+    margin-top: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 20rem;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.button__style{
+    height: 5rem;
+    width: 5rem;
+}

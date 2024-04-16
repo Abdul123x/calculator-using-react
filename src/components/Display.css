@@ -1,0 +1,13 @@
+.dis_container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 20rem;
+
+}
+.display_input{
+    height: 4rem;
+    width: 20rem;
+    margin-top: 3rem;
+    font-size: 2.5rem;
+}
